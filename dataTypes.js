@@ -33,4 +33,7 @@ console.log(typeof age);
 age= Number(age);
 console.log(typeof age);
 
+var ab = "A";
+console.log(65-ab);
+console.log(typeof "-1");
 
