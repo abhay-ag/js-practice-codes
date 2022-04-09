@@ -7,7 +7,7 @@ function printmsg(msg){
     console.log(msg);
 
 }
-//arrow functions
+//arrow function
 
 phello = ()=>{
     console.log("Hello World!!!");
@@ -15,7 +15,7 @@ phello = ()=>{
 pMsg = (msg)=>{
     console.log(msg);
 }
-// one line functions
+// one line function
 
 oneLiner =()=>console.log("Hello One line Function");
 
